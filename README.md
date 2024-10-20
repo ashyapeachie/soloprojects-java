@@ -1,0 +1,1 @@
+# soloprojects-java
